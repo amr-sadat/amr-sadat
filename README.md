@@ -2,7 +2,7 @@
 
 ## Senior Front-End Developer | Angular Expert
 
-🚀 Building high-performance web applications with the latest Angular (18+)  
+🚀 Building high-performance web applications with the latest Angular (20+)  
 🎯 Passionate about Clean Architecture and functional programming  
 🔧 Currently exploring React to expand my frontend toolkit
 
